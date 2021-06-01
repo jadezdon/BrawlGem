@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: b6c80e6cf9d2a584dbd0af9dd3aae1ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4043168082081384746
+    second: WEAPON_arrow_0
+  - first:
+      213: -8784830557169906926
+    second: WEAPON_arrow_1
+  - first:
+      213: 5670240535154806542
+    second: WEAPON_arrow_2
+  - first:
+      213: -3916456232895876942
+    second: WEAPON_arrow_3
+  - first:
+      213: -7908104201648620951
+    second: WEAPON_arrow_4
+  - first:
+      213: -1111191368826053517
+    second: WEAPON_arrow_5
+  - first:
+      213: 5879751648891754064
+    second: WEAPON_arrow_6
+  - first:
+      213: 4491237576697932603
+    second: WEAPON_arrow_7
+  - first:
+      213: 3431696153143555805
+    second: WEAPON_arrow_8
+  - first:
+      213: -2863553896182765717
+    second: WEAPON_arrow_9
+  - first:
+      213: 584697118848023848
+    second: WEAPON_arrow_10
+  - first:
+      213: 2431111355151348510
+    second: WEAPON_arrow_11
+  - first:
+      213: 9117937811411515123
+    second: WEAPON_arrow_12
+  - first:
+      213: 4842434775522576007
+    second: WEAPON_arrow_13
+  - first:
+      213: 751379566964672068
+    second: WEAPON_arrow_14
+  - first:
+      213: 8586177389024831808
+    second: WEAPON_arrow_15
+  - first:
+      213: 1613656552066601926
+    second: WEAPON_arrow_16
+  - first:
+      213: 4412302801785931161
+    second: WEAPON_arrow_17
+  - first:
+      213: 7223486947893965473
+    second: WEAPON_arrow_18
+  - first:
+      213: -360808037713898039
+    second: WEAPON_arrow_19
+  - first:
+      213: -1643753592769725730
+    second: WEAPON_arrow_20
+  - first:
+      213: 2527830106414056691
+    second: WEAPON_arrow_21
+  - first:
+      213: -1116511783310426412
+    second: WEAPON_arrow_22
+  - first:
+      213: 8362315642308779540
+    second: WEAPON_arrow_23
+  - first:
+      213: 6995366593538532815
+    second: WEAPON_arrow_24
+  - first:
+      213: -8105548444599548535
+    second: WEAPON_arrow_25
+  - first:
+      213: -6629946601863761420
+    second: WEAPON_arrow_26
+  - first:
+      213: -2099374115641450563
+    second: WEAPON_arrow_27
+  - first:
+      213: -7359960703400637850
+    second: WEAPON_arrow_28
+  - first:
+      213: 3422841322759448379
+    second: WEAPON_arrow_29
+  - first:
+      213: -2805824936171033077
+    second: WEAPON_arrow_30
+  - first:
+      213: 1497547706675310832
+    second: WEAPON_arrow_31
+  - first:
+      213: -3042151761617411662
+    second: WEAPON_arrow_32
+  - first:
+      213: -2872472570127097180
+    second: WEAPON_arrow_33
+  - first:
+      213: 6231096711745686560
+    second: WEAPON_arrow_34
+  - first:
+      213: 1364921271711260264
+    second: WEAPON_arrow_35
+  - first:
+      213: -2139494584680598153
+    second: WEAPON_arrow_36
+  - first:
+      213: -4988762852510493832
+    second: WEAPON_arrow_37
+  - first:
+      213: -5581280112595167146
+    second: WEAPON_arrow_38
+  - first:
+      213: -4555291164246150701
+    second: WEAPON_arrow_39
+  - first:
+      213: -3890428279904777081
+    second: WEAPON_arrow_40
+  - first:
+      213: -6818590323138953756
+    second: WEAPON_arrow_41
+  - first:
+      213: -8442907231156249730
+    second: WEAPON_arrow_42
+  - first:
+      213: 6779559534526363033
+    second: WEAPON_arrow_43
+  - first:
+      213: -6791880177093941429
+    second: WEAPON_arrow_44
+  - first:
+      213: -4502009990721296123
+    second: WEAPON_arrow_45
+  - first:
+      213: -978742332403153471
+    second: WEAPON_arrow_46
+  - first:
+      213: 4849589444662048972
+    second: WEAPON_arrow_47
+  - first:
+      213: -6420485400622149559
+    second: WEAPON_arrow_48
+  - first:
+      213: 1824673707867084439
+    second: WEAPON_arrow_49
+  - first:
+      213: -267338357143267137
+    second: WEAPON_arrow_50
+  - first:
+      213: 1245042422890129233
+    second: WEAPON_arrow_51
+  - first:
+      213: 7164243995794022237
+    second: WEAPON_arrow_52
+  - first:
+      213: 8761282590302562847
+    second: WEAPON_arrow_53
+  - first:
+      213: 201414922681293377
+    second: WEAPON_arrow_54
+  - first:
+      213: 3699755811687653938
+    second: WEAPON_arrow_55
+  - first:
+      213: 5685570130676773923
+    second: WEAPON_arrow_56
+  - first:
+      213: -8089542566996868081
+    second: WEAPON_arrow_57
+  - first:
+      213: 7168984157421848834
+    second: WEAPON_arrow_58
+  - first:
+      213: 713462346126363925
+    second: WEAPON_arrow_59
+  - first:
+      213: 6699697612244590035
+    second: WEAPON_arrow_60
+  - first:
+      213: 4557237116028371737
+    second: WEAPON_arrow_61
+  - first:
+      213: 8704686552761193892
+    second: WEAPON_arrow_62
+  - first:
+      213: 503785608777558683
+    second: WEAPON_arrow_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WEAPON_arrow_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 203
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6775c0d08c3e7c0800000000000000
+      internalID: -4043168082081384746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 200
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b04ebf623061680800000000000000
+      internalID: -8784830557169906926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 203
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f4ce879bdb0be40800000000000000
+      internalID: 5670240535154806542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 159
+        width: 27
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b070e37ec3f5a9c0800000000000000
+      internalID: -3916456232895876942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 160
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ab5f5a025c04290800000000000000
+      internalID: -7908104201648620951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_5
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 160
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c94af56514490f0800000000000000
+      internalID: -1111191368826053517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 158
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056d5bfe8f2199150800000000000000
+      internalID: 5879751648891754064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 151
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b67f8c7c4145e30800000000000000
+      internalID: 4491237576697932603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_8
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 148
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd632392875df9f20800000000000000
+      internalID: 3431696153143555805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 142
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6727d637ec9248d0800000000000000
+      internalID: -2863553896182765717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 143
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d71268ee24d1800800000000000000
+      internalID: 584697118848023848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 144
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6394d612c698e70800000000000000
+      internalID: 9117937811411515123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 146
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7868503a5c8c33340800000000000000
+      internalID: 4842434775522576007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 78
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049e05308da382770800000000000000
+      internalID: 8586177389024831808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 77
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c35967a51cd46610800000000000000
+      internalID: 1613656552066601926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 80
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99549e55506ab3d30800000000000000
+      internalID: 4412302801785931161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 83
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2f3e08b1bfe3460800000000000000
+      internalID: 7223486947893965473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 83
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c515f750072efaf0800000000000000
+      internalID: -360808037713898039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 84
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda30bcf0d63039e0800000000000000
+      internalID: -1643753592769725730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_21
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 86
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f40959b618a41320800000000000000
+      internalID: 2527830106414056691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_22
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 85
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de7e38d27a5180f0800000000000000
+      internalID: -1116511783310426412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_23
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 81
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ed18f65c9ec0470800000000000000
+      internalID: 8362315642308779540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 76
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5af719ad8841160800000000000000
+      internalID: 6995366593538532815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_25
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 31
+        width: 27
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9858ce972ae438f80800000000000000
+      internalID: -8105548444599548535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f13a1c41b2bdf3a0800000000000000
+      internalID: -6629946601863761420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_27
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 32
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf9a826d568dd2e0800000000000000
+      internalID: -2099374115641450563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_28
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 30
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a88f82cba2cd990800000000000000
+      internalID: -7359960703400637850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_29
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 23
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37ea9d4c00608f20800000000000000
+      internalID: 3422841322759448379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_30
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 20
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ea7912615bf09d0800000000000000
+      internalID: -2805824936171033077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_31
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 13
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0359274bb58c410800000000000000
+      internalID: 1497547706675310832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 15
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b127ff371b18c5d0800000000000000
+      internalID: -3042151761617411662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_34
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 16
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cc4b0127d497650800000000000000
+      internalID: 6231096711745686560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WEAPON_arrow_35
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 18
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e59ba3aac21f210800000000000000
+      internalID: 1364921271711260264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
